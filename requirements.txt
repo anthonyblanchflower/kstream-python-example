@@ -1,0 +1,2 @@
+confluent-kafka
+git+https://github.com/wintoncode/winton-kafka-streams
